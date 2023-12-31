@@ -9,10 +9,10 @@ showcase:
   subtitle: ""
   description: "Driving Sustainability Through Education, Enterprise, Disaster Management, and R&D"
   image:
-    x: "default.svg"
-    _2x: "default.svg"
+    x: "default.png"
+    _2x: "default.png"
   imageMobile:
-    x: "default.svg"
+    x: "default.png"
 
   learnMore:
     icon: "icon-smile-fill"
@@ -57,8 +57,8 @@ about:
     btnText: "Join Us"
     URL: "#"
   image:
-    x: "default.svg"
-    _2x: "default.svg"
+    x: "default.png"
+    _2x: "default.png"
 
 # missionVision
 missionVision:
