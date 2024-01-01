@@ -83,12 +83,12 @@ timeline:
       location: "Sri Lanka"
       date: "Aug 12, 2023"
 
-# Client & Work
-client_and_work:
-  title: "Clients & Works"
+# sponsors
+sponsors:
+  title: "Sponsors"
   enable: true
 
-  clients:
+  sponsors:
     - logo:
         x: "img/clients/asgardia.png"
         _2x: "img/clients/asgardia@2x.png"
@@ -119,7 +119,13 @@ client_and_work:
         _2x: "img/clients/ztos@2x.png"
       alt: "Ztos"
 
-  works:
+
+# projects
+projects:
+  title: "Projects"
+  enable: true
+
+  work:
     - title: "Radity Finance - UI Kit"
       description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
       button:

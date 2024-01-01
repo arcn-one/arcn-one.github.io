@@ -9887,7 +9887,7 @@ html body {
   font-weight: 700;
   color: #348ee9;
 }
-.clients {
+.sponsors {
   display: -webkit-box;
   display: flex;
   flex-wrap: wrap;
@@ -9899,17 +9899,17 @@ html body {
   margin-left: -20px;
 }
 @media (min-width: 768px) {
-  .clients {
+  .sponsors {
     margin-left: -50px;
   }
 }
 @media (min-width: 1200px) {
-  .clients {
+  .sponsors {
     -webkit-box-pack: justify;
     justify-content: space-between;
   }
 }
-.clients__item {
+.sponsors__item {
   opacity: 0.5;
   margin-bottom: 30px;
   margin-left: 20px;
@@ -9920,7 +9920,7 @@ html body {
   -webkit-transition-duration: 0.2s;
   transition-duration: 0.2s;
 }
-.clients__item:hover {
+.sponsors__item:hover {
   opacity: 1;
 }
 .testimonial .icon-quote {
@@ -9928,7 +9928,7 @@ html body {
   margin-bottom: 16px;
 }
 @media (min-width: 768px) {
-  .clients__item {
+  .sponsors__item {
     margin-left: 50px;
   }
   .testimonial .icon-quote {
