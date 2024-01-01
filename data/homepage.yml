@@ -129,6 +129,10 @@ projects:
     - title: "Early Warning System for Adverse Weather"
       description: "In order to aid with disaster management, early warning systems must be in place. With this system in place ARC will be able to better predict adverse weather and support affected communities better."
       button:
+        icon: "icon-smile-fill"
+        btnText: "Learn More"
+        URL: "#"
+      button2:
         icon: "icon-arrow-right"
         btnText: "Source Code"
         URL: "https://github.com/arcn-one/weather-app-python-backend"
@@ -140,6 +144,10 @@ projects:
     - title: "Monthly Beach Clean Up"
       description: "Monthly beach cleaning."
       button:
+        icon: "icon-smile-fill"
+        btnText: "Learn More"
+        URL: "#"
+      button2:
         icon: "icon-arrow-right"
         btnText: "Volunteer"
         URL: "#"
@@ -151,8 +159,12 @@ projects:
     - title: "Learning Platform"
       description: "The best way to give back to the community sustainably by effectively equipping individuals with basic skills."
       button:
-        icon: "icon-arrow-right"
+        icon: "icon-smile-fill"
         btnText: "More Info"
+        URL: "#"
+      button2:
+        icon: "icon-arrow-right"
+        btnText: "Visit Site"
         URL: "#"
       image:
         x: "img/work/web-project.jpg"
@@ -162,8 +174,12 @@ projects:
     - title: "Hawk"
       description: "A modern instant messaging platform."
       button:
-        icon: "icon-arrow-right"
+        icon: "icon-smile-fill"
         btnText: "Learn More"
+        URL: "#"
+      button2:
+        icon: "icon-arrow-right"
+        btnText: "Download"
         URL: "#"
       image:
         x: "img/work/tech-project.jpg"
