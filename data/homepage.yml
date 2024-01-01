@@ -141,7 +141,7 @@ projects:
       description: "Monthly beach cleaning."
       button:
         icon: "icon-arrow-right"
-        btnText: "Case Study"
+        btnText: "Volunteer"
         URL: "#"
       image:
         x: "img/works/swissfintech.jpg"
@@ -149,10 +149,10 @@ projects:
       is_even: true
 
     - title: "Learning Platform"
-      description: "The best way to give back to the community sustainably, effectively equipping individuals with basic skills."
+      description: "The best way to give back to the community sustainably by effectively equipping individuals with basic skills."
       button:
         icon: "icon-arrow-right"
-        btnText: "Case Study"
+        btnText: "More Info"
         URL: "#"
       image:
         x: "img/work/web-project.jpg"
