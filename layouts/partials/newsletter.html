@@ -11,7 +11,7 @@
             type="email"
             class="form-control"
             aria-describedby="emailHelp"
-            placeholder="Email Address..."
+            placeholder="Email"
             aria-label="Email Address"
           />
           <button type="submit" id="rad-subscription-submit" class="btn btn-light btn-rounded">
@@ -26,9 +26,9 @@
         </div>
         <script src="/js/subscription.js"></script>
       </div>
-      <small id="emailHelp" class="form-text text-muted"
-        >{{ .Site.Data.homepage.newsletter.note }}</small
-      >
+      <small id="emailHelp" class="form-text text-muted">
+          {{ .Site.Data.homepage.newsletter.note }}
+      </small>
     </div>
   </div>
 </div>
