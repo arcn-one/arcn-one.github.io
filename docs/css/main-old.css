@@ -493,7 +493,7 @@ body {
   font-weight: 400;
   line-height: 1.5;
   color: #212529;
-  background-color: #f4f4e8;
+  background-color: #fff;
 }
 dt,
 kbd kbd {
@@ -9818,7 +9818,7 @@ input[type="email"]::placeholder {
   width: 75px;
   height: 100%;
   z-index: 1;
-  background-color: #cfe0ff;
+  background-color: #edf1f4;
   -webkit-transform: skew(-13deg);
   transform: skew(-13deg);
 }
@@ -9885,7 +9885,7 @@ html body {
 .timeline__location {
   font-size: 14px;
   font-weight: 700;
-  color: #348ee9;
+  color: #e93e34;
 }
 .clients {
   display: -webkit-box;
@@ -9974,7 +9974,7 @@ html body {
 .testimonial__author-info span {
   font-size: 14px;
   font-weight: 700;
-  color: #348ee9;
+  color: #e93e34;
 }
 html {
   height: 100%;
@@ -9991,11 +9991,11 @@ html body {
     "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 html body ::-moz-selection {
-  background-color: #348ee9;
+  background-color: #e93e34;
   color: #fff;
 }
 html body ::selection {
-  background-color: #348ee9;
+  background-color: #e93e34;
   color: #fff;
 }
 input[type="text"]:focus,
@@ -10242,7 +10242,7 @@ textarea:focus {
   font-size: 25px;
   font-weight: 900;
   letter-spacing: -1.17px;
-  color: #348ee9;
+  color: #e93e34;
 }
 @media (min-width: 768px) {
   .header .navbar-brand img {
