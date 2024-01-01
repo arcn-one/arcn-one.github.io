@@ -126,19 +126,19 @@ projects:
   enable: true
 
   work:
-    - title: "Radity Finance - UI Kit"
-      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
+    - title: "Early Warning System for Adverse Weather"
+      description: "In order to aid with disaster management, early warning systems must be in place. With this system in place ARC will be able to better predict adverse weather and support affected communities better."
       button:
         icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "#"
+        btnText: "Source Code"
+        URL: "https://github.com/arcn-one/weather-app-python-backend"
       image:
-        x: "img/works/radity-finance.jpg"
-        _2x: "img/works/radity-finance@2x.jpg"
-      is_even: true
+        x: "img/work/tech-project.jpg"
+        _2x: "img/work/tech-project.jpg"
+      is_even: false
 
-    - title: "Swiss Fintech Website"
-      description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
+    - title: "Monthly Beach Clean Up"
+      description: "Monthly beach cleaning."
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
@@ -146,17 +146,28 @@ projects:
       image:
         x: "img/works/swissfintech.jpg"
         _2x: "img/works/swissfintech@2x.jpg"
-      is_even: false
+      is_even: true
 
-    - title: "Robo Advisor"
-      description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
+    - title: "Learning Platform"
+      description: "The best way to give back to the community sustainably, effectively equipping individuals with basic skills."
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
         URL: "#"
       image:
-        x: "img/works/robo-advisor.jpg"
-        _2x: "img/works/robo-advisor@2x.jpg"
+        x: "img/work/web-project.jpg"
+        _2x: "img/work/web-project.jpg"
+      is_even: false
+
+    - title: "Hawk"
+      description: "A modern instant messaging platform."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "img/work/tech-project.jpg"
+        _2x: "img/work/tech-project.jpg"
       is_even: true
 
 # testimonial
