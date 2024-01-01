@@ -187,8 +187,10 @@ projects:
         btnText: "Volunteer"
         URL: "#"
       image:
-        x: "img/works/swissfintech.jpg"
-        _2x: "img/works/swissfintech@2x.jpg"
+        x: ""
+        _2x: ""
+        #x: "img/works/swissfintech.jpg"
+        #_2x: "img/works/swissfintech@2x.jpg"
       is_even: true
 
     - title: "Learning Platform"
