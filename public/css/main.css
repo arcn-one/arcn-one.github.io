@@ -10269,9 +10269,9 @@ textarea:focus {
   }
 }
 .header .navbar-toggler:not(.nav-link) {
-  position: absolute;
-  left: 0;
-  top: 14px;
+  position: relative;
+  right: 220px;
+  top: 0px;
   border: none;
 }
 .header .navbar-toggler:not(.nav-link)-icon {
