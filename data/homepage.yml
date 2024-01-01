@@ -163,7 +163,7 @@ projects:
       description: "A modern instant messaging platform."
       button:
         icon: "icon-arrow-right"
-        btnText: "Case Study"
+        btnText: "Learn More"
         URL: "#"
       image:
         x: "img/work/tech-project.jpg"
